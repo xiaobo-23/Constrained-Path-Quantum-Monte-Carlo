@@ -1,1 +1,1 @@
-# Constrained_Path_Quantum_Monte_Carlo
+# Constrained-Path Quantum Monte Carlo
